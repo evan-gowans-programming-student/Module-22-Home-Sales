@@ -9,7 +9,7 @@ This project leverages **Apache Spark** and **PySpark SQL** to analyze home sale
 
 ## Prerequisites
 Before running the notebook, make sure you have:
-- Python 3.x installed  
+- Python 3 installed  
 - Apache Spark and PySpark installed  
 - Jupyter Notebook installed
 
